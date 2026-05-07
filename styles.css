@@ -148,6 +148,12 @@ img[src*='png'] {
   color: white;
   font-weight: 500;
   font-size: 1.31em;
+  padding: 4px;
+  border-radius: 8px;
+}
+
+.sidebar .group a:hover {
+  background-color: #008ed6;
 }
 
 .sidebar img,
